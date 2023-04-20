@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { ILogin } from "./../models/ILogin";
+import { ILogin } from "../../models/ILogin";
 interface IState {
   user: ILogin;
 }

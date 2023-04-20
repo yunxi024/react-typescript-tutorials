@@ -1,9 +1,9 @@
 import React, { useState } from "react";
-import { UserService } from "../services/UserService";
-import { IUser } from "./../models/IUser";
+import { UserService } from "../../services/UserService";
+import { IoldUser } from "../../models/IUser";
 
 interface IState {
-  users: IUser[];
+  users: IoldUser[];
 }
 
 const UserList: React.FC = () => {

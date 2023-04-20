@@ -1,0 +1,357 @@
+.hotel_main {
+  margin: auto;
+  margin-top: 20px;
+  padding: 0 80px;
+
+  max-width: 1350px;
+  button {
+    background-color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  .picture {
+    margin-top: 12px;
+    display: flex;
+    border-radius: 10px;
+    overflow: hidden;
+    .pic1 {
+      overflow: hidden;
+      width: 50%;
+      height: 480px;
+    }
+    .pic2,
+    .pic3 {
+      padding-left: 8px;
+      overflow: hidden;
+      width: 25%;
+      height: 480px;
+      .pictop {
+        margin-bottom: 8px;
+      }
+      img {
+        width: 100%;
+        height: 240px;
+      }
+    }
+  }
+  .hotel_top {
+    // padding: 20px 100px;
+    font-weight: bold;
+    font-size: 0.9rem;
+    h1 {
+      font-size: 1.6rem;
+    }
+    span {
+      font-size: 1.1rem;
+    }
+    .hotel_name {
+      display: flex;
+      justify-content: space-between;
+      button {
+        padding: 8px;
+        border-radius: 8px;
+        i {
+          margin-right: 6px;
+        }
+      }
+      button:hover {
+        background-color: rgb(245, 245, 245);
+      }
+    }
+  }
+  .hotel_bottom {
+    display: flex;
+    position: relative;
+    .left {
+      width: 60%;
+      //   height: 1000px;
+
+      .left1 {
+        display: flex;
+        padding: 50px 0 10px 0;
+        justify-content: space-between;
+        border-bottom: 1px solid rgb(223, 223, 223);
+        p {
+          font-size: 1.4rem;
+          margin-bottom: 5px;
+          font-weight: bold;
+        }
+        ol {
+          padding: 0px;
+          li {
+            display: inline-block;
+          }
+        }
+        img {
+          border-radius: 50%;
+          width: 60px;
+          height: 60px;
+        }
+      }
+      .left2 {
+        padding: 32px 0;
+        border-bottom: 1px solid rgb(223, 223, 223);
+        .div1 {
+          margin-bottom: 24px;
+          display: flex;
+          align-items: center;
+          i {
+            font-size: 20px;
+            margin-right: 10px;
+          }
+        }
+        .div2 {
+          display: flex;
+          align-items: center;
+          i {
+            font-size: 20px;
+            margin-right: 10px;
+          }
+        }
+        .content {
+          font-size: 14px;
+          margin: 3px 0;
+          color: #818181;
+        }
+        .title {
+          margin: 3px 0;
+          font-weight: bold;
+        }
+      }
+      .left3 {
+        padding: 32px 0;
+        border-bottom: 1px solid rgb(223, 223, 223);
+        img {
+          width: 124px;
+          height: 26px;
+          margin-bottom: 16px;
+        }
+      }
+      .left4 {
+        border-bottom: 1px solid rgb(223, 223, 223);
+        .div1 {
+          padding: 32px 0 0;
+          i {
+            font-size: 18px;
+          }
+        }
+        .div2 {
+          padding: 32px 0 48px;
+        }
+      }
+      .left5 {
+        padding: 48px 0;
+        border-bottom: 1px solid rgb(223, 223, 223);
+        .div1 {
+          font-size: 22px;
+          font-weight: bold;
+          padding: 0 0 24px;
+        }
+        .div2 {
+          width: 30%;
+          padding: 24px;
+          border: 1px solid rgb(221, 221, 221);
+          border-radius: 12px;
+          i {
+            font-size: 20px;
+            margin-bottom: 10px;
+          }
+          .div2_1 {
+            font-weight: bold;
+            margin-bottom: 8px;
+          }
+        }
+      }
+      .left6 {
+        padding: 48px 0;
+        border-bottom: 1px solid rgb(223, 223, 223);
+        .div1 {
+          font-size: 22px;
+          font-weight: bold;
+          padding: 0 0 24px;
+        }
+        .div2 {
+          display: flex;
+          .div2_1 {
+            width: 40%;
+            margin-right: 10%;
+            div {
+              i {
+                font-size: 18px;
+                margin-right: 16px;
+              }
+              margin-bottom: 16px;
+            }
+          }
+          .div2_2 {
+            width: 40%;
+            div {
+              i {
+                font-size: 18px;
+                margin-right: 16px;
+              }
+              margin-bottom: 16px;
+            }
+          }
+        }
+        .div3 {
+          border: 1px solid;
+          width: 50%;
+          margin-top: 24px;
+          padding: 12px 24px;
+          text-align: center;
+          font-weight: bold;
+          border-radius: 10px;
+        }
+        .div3:hover {
+          background-color: #ececec;
+        }
+      }
+    }
+    .right {
+      width: 40%;
+      height: 100%;
+      padding-left: 90px;
+      // background-color: #ececec;
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      right: 0;
+      .rightdiv {
+        position: sticky;
+        top: var(--navigation-bar-offset, 80px);
+        width: 100%;
+        height: 600px;
+        // border: 1px solid rgb(223, 223, 223);
+        .right1 {
+          margin-top: 50px;
+          height: 460px;
+          border: 1px solid rgb(221, 221, 221);
+          border-radius: 12px;
+          padding: 24px;
+          box-shadow: rgba(0, 0, 0, 0.12) 0px 6px 16px;
+          .div1 {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 24px;
+            .div1_1 {
+              span {
+                font-size: 22px;
+                font-weight: bold;
+              }
+            }
+            .div1_2 {
+              font-size: 14px;
+              font-weight: bold;
+              span {
+                font-size: 18px;
+              }
+              button {
+                color: #7e7d7d;
+              }
+            }
+          }
+          .div2 {
+            width: 100%;
+            height: 130px;
+            border: 1px solid #b8b8b8;
+            border-radius: 8px;
+            .div2_1 {
+              display: flex;
+              height: 65px;
+              border-bottom: 1px solid #b8b8b8;
+              .spans {
+                margin-top: 10px;
+                margin-left: 10px;
+                font-size: 13px;
+                font-weight: bold;
+              }
+              .checkin {
+                flex: 1 1;
+                border-right: 1px solid #b8b8b8;
+              }
+              .checkout {
+                flex: 1 1;
+              }
+            }
+            .div2_2 {
+              position: relative;
+              padding: 10px;
+              .div2_2_1 {
+                font-size: 13px;
+                font-weight: bold;
+              }
+              .box2 {
+                position: absolute;
+                top: calc(100%);
+                right: 0px;
+                width: 100%;
+                background: #fff;
+                border-radius: 4px;
+                box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+                max-height: 0px;
+                overflow: hidden;
+                transition: max-height 0.2s ease-out;
+                z-index: 10;
+                .mbox2 {
+                  margin: 16px;
+                  .gbox2 {
+                    display: flex;
+                    padding: 10px 0;
+                    justify-content: space-between;
+                    button {
+                      text-decoration: none;
+                    }
+                    .text {
+                      p {
+                        font-size: 1rem;
+                        margin-bottom: 0px;
+                        font-weight: bold;
+                      }
+                      span {
+                        font-size: 14px;
+                      }
+                    }
+                  }
+                  .mbox2_1 {
+                    margin-top: 10px;
+                    font-size: 12px;
+                  }
+                }
+              }
+              .box2:hover {
+                max-height: 1200px;
+              }
+              .input-box2:focus + .box2 {
+                max-height: 1200px;
+                // overflow-y: auto;
+              }
+              .input-box2 {
+                width: 100%;
+                border: none;
+                padding: 5px 0;
+                font-size: 14px;
+              }
+            }
+          }
+        }
+        .right2 {
+          margin-top: 30px;
+          height: 150px;
+          border: 1px solid rgb(221, 221, 221);
+          border-radius: 12px;
+          padding: 24px;
+        }
+        .right3 {
+          i {
+            margin-right: 1rem;
+          }
+          margin-top: 20px;
+          text-align: center;
+          color: rgb(117, 117, 117);
+        }
+      }
+    }
+  }
+}

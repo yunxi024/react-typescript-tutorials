@@ -1,0 +1,276 @@
+{
+  "room_image": [
+    {
+      "room_id": 1,
+      "img_id": 1,
+      "imgUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-34658120/original/160b4c17-1db0-4659-ad98-c81567b4ed6c.jpeg?im_w=720"
+    },
+    {
+      "room_id": 1,
+      "img_id": 2,
+      "imgUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-34658120/original/e6afe269-b0c7-468d-b93c-ea55b6592cf2.jpeg?im_w=720"
+    },
+    {
+      "room_id": 1,
+      "img_id": 3,
+      "imgUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-34658120/original/883eb3f0-15ab-4196-be8d-bfd5a2170e1b.jpeg?im_w=720"
+    },
+    {
+      "room_id": 1,
+      "img_id": 4,
+      "imgUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-34658120/original/f0d9b54f-5395-4d79-bc40-ac06fb772e83.jpeg?im_w=720"
+    },
+    {
+      "room_id": 2,
+      "img_id": 1,
+      "imgUrl": "https://a0.muscache.com/im/pictures/23382828/bee5835d_original.jpg?im_w=720"
+    },
+    {
+      "room_id": 2,
+      "img_id": 2,
+      "imgUrl": "https://a0.muscache.com/im/pictures/23382695/df506b67_original.jpg?im_w=720"
+    },
+    {
+      "room_id": 2,
+      "img_id": 3,
+      "imgUrl": "https://a0.muscache.com/im/pictures/23397472/6289eab7_original.jpg?im_w=720"
+    },
+    {
+      "room_id": 3,
+      "img_id": 1,
+      "imgUrl": "https://a0.muscache.com/im/pictures/07eda303-0a89-419e-a7b8-1b788ef4e6f0.jpg?im_w=720"
+    },
+    {
+      "room_id": 3,
+      "img_id": 2,
+      "imgUrl": "https://a0.muscache.com/im/pictures/ed750929-3e90-4b43-a309-8a50439779c4.jpg?im_w=720"
+    },
+    {
+      "room_id": 3,
+      "img_id": 3,
+      "imgUrl": "https://a0.muscache.com/im/pictures/9c142ac7-34d3-49ed-98d2-5c25e878e9c3.jpg?im_w=720"
+    },
+    {
+      "room_id": 3,
+      "img_id": 4,
+      "imgUrl": "https://a0.muscache.com/im/pictures/fd0a5f30-5a6c-41ff-9ee9-1a7c4a8e1aaf.jpg?im_w=720"
+    },
+    {
+      "room_id": 4,
+      "img_id": 1,
+      "imgUrl": "https://a0.muscache.com/im/pictures/32e8b4a0-83ff-4dba-8253-5340d8d05215.jpg?im_w=720"
+    },
+    {
+      "room_id": 4,
+      "img_id": 2,
+      "imgUrl": "https://a0.muscache.com/im/pictures/a9caa9b8-3029-4f0b-b6f8-0ed33e8006b4.jpg?im_w=720"
+    },
+    {
+      "room_id": 4,
+      "img_id": 3,
+      "imgUrl": "https://a0.muscache.com/im/pictures/09c2ac0e-6fea-4bb0-8724-1544f5bbe75c.jpg?im_w=720"
+    },
+    {
+      "room_id": 4,
+      "img_id": 4,
+      "imgUrl": "https://a0.muscache.com/im/pictures/45053040-1549-49e5-a1a8-f89629b36401.jpg?im_w=720"
+    },
+    {
+      "room_id": 4,
+      "img_id": 5,
+      "imgUrl": "https://a0.muscache.com/im/pictures/97a6907d-478e-43fa-b49e-52cd8580bccc.jpg?im_w=720"
+    }
+  ],
+  "room_message": [
+    {
+      "room_id": 1,
+      "site": "Selat、インドネシア",
+      "distance": "目的地までの距離：5,528km",
+      "date": "9月13日～18日",
+      "price": "¥&nbsp;30,717",
+      "rating": "4.94"
+    },
+    {
+      "room_id": 2,
+      "site": "ムアンチェンマイ、チエンマイ、タイ",
+      "distance": "目的地までの距離：4,410km",
+      "date": "2月1日～8日",
+      "price": "¥&nbsp;4,269",
+      "rating": "4.67"
+    },
+    {
+      "room_id": 3,
+      "site": "長野市、Nagano、日本",
+      "distance": "目的地までの距離：186km",
+      "date": "4月11日～16日",
+      "price": "¥&nbsp;30,007",
+      "rating": "4.92"
+    },
+    {
+      "room_id": 4,
+      "site": "Hwachon-myeon",
+      "distance": "目的地までの距離：1,068km",
+      "date": "9月3日～8日",
+      "price": "¥&nbsp;11,344",
+      "rating": "4.88"
+    }
+  ],
+  "hotelList": [
+    {
+      "hotel_id": 1,
+      "site": "Selat、インドネシア",
+      "distance": "目的地までの距離：5,528km",
+      "date": "9月13日～18日",
+      "price": "¥30,717",
+      "rating": "4.94",
+      "hotelImages": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-34658120/original/160b4c17-1db0-4659-ad98-c81567b4ed6c.jpeg",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-34658120/original/e6afe269-b0c7-468d-b93c-ea55b6592cf2.jpeg",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-34658120/original/883eb3f0-15ab-4196-be8d-bfd5a2170e1b.jpeg",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-34658120/original/f0d9b54f-5395-4d79-bc40-ac06fb772e83.jpeg"
+      ]
+    },
+    {
+      "hotel_id": 2,
+      "site": "ムアンチェンマイ、タイ",
+      "distance": "目的地までの距離：4,410km",
+      "date": "2月1日～8日",
+      "price": "¥4,269",
+      "rating": "4.67",
+      "hotelImages": [
+        "https://a0.muscache.com/im/pictures/23382828/bee5835d_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/23382695/df506b67_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/23397472/6289eab7_original.jpg?im_w=720"
+      ]
+    },
+    {
+      "hotel_id": 3,
+      "site": "長野市、Nagano、日本",
+      "distance": "目的地までの距離：186km",
+      "date": "4月11日～16日",
+      "price": "¥30,007",
+      "rating": "4.92",
+      "hotelImages": [
+        "https://a0.muscache.com/im/pictures/07eda303-0a89-419e-a7b8-1b788ef4e6f0.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/ed750929-3e90-4b43-a309-8a50439779c4.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/9c142ac7-34d3-49ed-98d2-5c25e878e9c3.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/fd0a5f30-5a6c-41ff-9ee9-1a7c4a8e1aaf.jpg?im_w=720"
+      ]
+    },
+    {
+      "hotel_id": 4,
+      "site": "Hwachon-myeon",
+      "distance": "目的地までの距離：1,068km",
+      "date": "9月3日～8日",
+      "price": "¥11,344",
+      "rating": "4.88",
+      "hotelImages": [
+        "https://a0.muscache.com/im/pictures/32e8b4a0-83ff-4dba-8253-5340d8d05215.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/a9caa9b8-3029-4f0b-b6f8-0ed33e8006b4.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/09c2ac0e-6fea-4bb0-8724-1544f5bbe75c.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/45053040-1549-49e5-a1a8-f89629b36401.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/97a6907d-478e-43fa-b49e-52cd8580bccc.jpg?im_w=720"
+      ]
+    },
+    {
+      "hotel_id": 5,
+      "site": "Okuizumo, Nita、日本",
+      "distance": "目的地までの距離：606km",
+      "date": "4月2日～7日",
+      "price": "¥6,932",
+      "rating": "4.71",
+      "hotelImages": [
+        "https://a0.muscache.com/im/pictures/1a36a508-034a-441f-83e5-1d01aa54923a.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/ccba6376-06fb-48fc-a109-edf7a686a2fd.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/cb884aaf-0ce0-4e34-a42b-44bf4babf7d1.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/84b9eec6-a106-408a-b049-8da1057e06ac.jpg?im_w=720"
+      ]
+    },
+    {
+      "hotel_id": 6,
+      "site": "Sakuho-machi、日本",
+      "distance": "目的地までの距離：120km",
+      "date": "4月24日～29日",
+      "price": "¥14,152",
+      "rating": "4.94",
+      "hotelImages": [
+        "https://a0.muscache.com/im/pictures/b9cfe6c5-d5cd-470c-8367-1036c37224d4.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/e5d6bd26-7d84-4563-844e-499ac3038149.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/c863fe71-497b-4d50-b36b-700b9dadda4a.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/cd8fb252-00ce-4b25-bd9a-e5e0278de5eb.jpg?im_w=720"
+      ]
+    },
+    {
+      "hotel_id": 7,
+      "site": "Iki、日本",
+      "distance": "目的地までの距離：934km",
+      "date": "4月24日～29日",
+      "price": "¥14,152",
+      "rating": "4.94",
+      "hotelImages": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-772120369091725160/original/159da44f-b572-40f6-a5b8-bb7577227c65.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/e5d6bd26-7d84-4563-844e-499ac3038149.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/c863fe71-497b-4d50-b36b-700b9dadda4a.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/cd8fb252-00ce-4b25-bd9a-e5e0278de5eb.jpg?im_w=720"
+      ]
+    },
+    {
+      "hotel_id": 8,
+      "site": "いすみ市、日本",
+      "distance": "目的地までの距離：71km",
+      "date": "4月5日～10日",
+      "price": "¥28,144",
+      "rating": "4.83",
+      "hotelImages": [
+        "https://a0.muscache.com/im/pictures/ebce5683-1e72-4a07-a6f7-a2944026df0b.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/7e5ab30c-74e4-4140-b663-13a4437385bd.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/f5db1aa8-b68a-436c-83be-69a7ad83cc76.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/1b1d21ac-5260-40ba-88ae-a08b06e0855c.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/e542bb70-6381-44f3-a7b4-0daa991c4e10.jpg?im_w=720"
+      ]
+    }
+  ],
+  "login": [
+    {
+      "user_id": 1,
+      "name": "aaa"
+    }
+  ],
+  "userlike": [
+    {
+      "id": 5,
+      "user_id": 1,
+      "hotel_id": 4
+    },
+    {
+      "id": 7,
+      "user_id": 1,
+      "hotel_id": 5
+    },
+    {
+      "id": 8,
+      "user_id": 2,
+      "hotel_id": 2
+    },
+    {
+      "id": 9,
+      "user_id": 2,
+      "hotel_id": 7
+    },
+    {
+      "id": 10,
+      "user_id": 2,
+      "hotel_id": 6
+    },
+    {
+      "id": 11,
+      "user_id": 3,
+      "hotel_id": 6
+    },
+    {
+      "id": 12,
+      "user_id": 3,
+      "hotel_id": 8
+    }
+  ]
+}

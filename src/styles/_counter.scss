@@ -1,0 +1,18 @@
+.counter {
+  display: flex;
+  align-items: center;
+  span {
+    font-size: 1rem;
+  }
+  button {
+    width: 32px;
+    height: 32px;
+    font-size: 22px;
+    border-radius: 50%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border: 0.5px solid #919191;
+    margin: 0px 15px;
+  }
+}
